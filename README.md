@@ -3,4 +3,4 @@ a test
 it's a test
 hehe
 hehe again
-conflict branch abc
+conflict branch  branch abc
